@@ -1,0 +1,15 @@
+body{
+	background-image: url(BackGround.jpg);
+	background-repeat:no-repeat;  
+   	background-size:cover;
+}
+
+.term {
+    background: transparent;
+    border: 15px;
+ }
+ 
+ .sb{
+     background-color:rgba(0, 0, 255, 0.0);
+     border: none;
+ }
